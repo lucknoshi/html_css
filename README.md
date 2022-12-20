@@ -1,7 +1,7 @@
 # MEU SITE / PORTIFÓLIO 
 
 Projetos em HTML5 e CSS3.
- <h1>Exercícios</h1>
+ <h1>Exercícios / Desafios</h1>
  
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex001/">Executar o exercício 001</a>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex002/">Executar o exercício 002</a>
@@ -25,5 +25,4 @@ Projetos em HTML5 e CSS3.
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex020/">Executar o exercício 020</a><
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex021/site.html">Executar o exercício 021</a>
 
-<h1>Desafios</a>
 <a href="https://github.com/lucknoshi/html_css/tree/main/desafios/desafio01">Executar o desafio 1</a>
