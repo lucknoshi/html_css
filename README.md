@@ -25,4 +25,5 @@ Projetos em HTML5 e CSS3.
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex020/">Executar o exercício 020</a><br>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex021/site.html">Executar o exercício 021</a>
 
-<a href="https://github.com/lucknoshi/html_css/desafios/desafio01/desafio01.html">Executar o desafio01</a>
+<h1>Desafios</h1>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio01/desafio01.html">Executar o desafio01</a>
