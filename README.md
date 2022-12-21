@@ -26,17 +26,17 @@ Projetos em HTML5 e CSS3.
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex021/site.html">Executar o exercício 021</a>
 
 <h1>Desafios</h1>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio01/desafio01.html">Executar o desafio01</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio02/desafio02.html">Executar o desafio02</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio03/desafio03.html">Executar o desafio03</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio04/desafio04.html">Executar o desafio04</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio05/desafio05.html">Executar o desafio05</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio06/index.html">Executar o desafio06</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio07/desafio07.html">Executar o desafio07</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio08/index.html">Executar o desafio08</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio09/index.html">Executar o desafio09</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio010/index.html">Executar o desafio010</a>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio010b/index.html">Executar o desafio010b</a>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio01/desafio01.html">Executar o desafio01</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio02/desafio02.html">Executar o desafio02</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio03/desafio03.html">Executar o desafio03</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio04/desafio04.html">Executar o desafio04</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio05/desafio05.html">Executar o desafio05</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio06/index.html">Executar o desafio06</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio07/desafio07.html">Executar o desafio07</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio08/index.html">Executar o desafio08</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio09/index.html">Executar o desafio09</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio010/index.html">Executar o desafio010</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio010b/index.html">Executar o desafio010b</a><br>
 <a href="https://lucknoshi.github.io/html_css/desafios/desafio012/index.html">Executar o desafio012</a>
 
 
