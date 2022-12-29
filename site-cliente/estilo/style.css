@@ -37,6 +37,7 @@ a.externo:after {
     content: '\00A0\1F517';
 }
 
+
 header.img-banner {
     background-image: url('../imagens-fundo-detalhes/banner-site-cliente02.png');
     min-height: 164px;
