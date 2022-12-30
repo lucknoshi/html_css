@@ -90,10 +90,25 @@ article {
     box-sizing: border-box;
 }
 
-img.right {
+div.left{
+    max-width: 150px;
+    min-width: 150px;
+    display: inline-block;
+    text-align: right;
+    
+}
+
+
+img#right.right {
     display: inline-block;
     max-width: 150px;
     min-width: 150px;
+}
+
+div.right{
+    text-align: justify;
+    display: inline-block;
+    align-items: top;
 }
 
 main {
@@ -163,7 +178,6 @@ main a:hover {
     text-decoration: underline;
     color: var(--cor4);
 }
-
 
 
 aside {
