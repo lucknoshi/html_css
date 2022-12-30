@@ -1,0 +1,27 @@
+@charset 'UTF-8';
+
+div {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+p#1 {
+    text-align: top;
+    display: flex;
+}
+
+p#2 {
+    display: inline-block;
+}
+
+#container-a {
+    display: block;
+    background-color: red;
+}
+
+#container-b {
+    float: right;
+    display: block;
+    background-color: blue;
+}
