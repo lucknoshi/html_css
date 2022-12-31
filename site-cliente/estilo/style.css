@@ -1,69 +1,42 @@
-@charset "UTF-8";
-
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
-
-@font-face {
-    font-family: 'Android';
-    src: url('../fontes/idroid.otf') format('opentype');
-    font-weight: normal;
-}
-
 * {
-    margin: 0px;
-    padding: 0px;
-}
-
-:root {
-    --cor0: #c5ebdc;
-    --cor1: #83e1ad;
-    --cor2: #3ddc84;
-    --cor3: #2fa866;
-    --cor4: #1a5c37;
-    --cor5: #063d1e;
-
-    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-android: 'Android', 'cursive';
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: var(--cor0);
-    font-family: (--fonte-padrao);
+    margin: auto;
+  
+    
+    
 }
 
-a.externo:after {
-    content: '\00A0\1F517';
-}
-
-
-header.img-banner {
-    background-image: url('../imagens-fundo-detalhes/banner-site-cliente02.png');
-    min-height: 164px;
+/* Cabeçalho */
+header{
+    background: linear-gradient(#641e00f2, #d13f00);
+    min-height: 186px;
     padding-top: 30px;
+    margin: auto;
 }
 
-header > h1 {
+header p {
+    margin: 10px;
+    padding: 10px;
+    text-align: right;
+    color: #fff;
+    font-size: 1.5em;
+}
+
+header h1 {
+    text-align: center;
     color: rgb(255, 255, 255);
-    font-family: 'Unbounded', cursive;
-    font-size: 3em;
+    font-family: 'Helvetica';
+    font-size: 1.6em;
     font-weight: normal;
     margin-bottom: 20px;
-    text-shadow: -2px 0px 0px rgb(0 0 0 / 52%);
-    padding: 20px;
-}
-
-header > p {
-    font-family: var(--fonte-padrao);
-    font-size: 1.2em;
-    color: rgb(255, 255, 255);
-    margin: auto;
-    margin-bottom: 20px;
-    max-width: 600px;
-    padding-right: 10px;
-    padding-left: 10px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.521);
+    padding: 5px;
+    margin: 0px;
 }
 
 nav {
@@ -72,7 +45,7 @@ nav {
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.514);
 }
 
-nav > a {
+nav>a {
     color: #fffefe;
     padding: 10px;
     border-radius: 5px;
@@ -81,104 +54,97 @@ nav > a {
     transition-duration: .5s;
 }
 
-nav > a:hover {
-    background-color: rgb(255, 255, 255);
-    color: rgba(76, 76, 189, 0.801);
+nav>a:hover {
+    background-color: #882900;
+    color: rgba(255, 255, 255, 0.801);
 }
 
-article {
-    box-sizing: border-box;
+h1 {
+    text-align: center;
 }
 
-div.left{
-    max-width: 150px;
-    min-width: 150px;
+/* Grid de produtos */
+.container {
+    background-color: #eee;
+    min-height: 60vh;
+    padding: 50px;
+}
+
+.products-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 31%;
+    margin: 1% 1%;
     display: inline-block;
-    text-align: right;
-    
+    padding: 15px;
 }
 
+.product-image {
+    height: 200px;
+    width: 70%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
 
-img#right.right {
-    display: inline-block;
-    max-width: 150px;
-    min-width: 150px;
 }
 
-div.right{
-    text-align: justify;
-    display: inline-block;
-    align-items: top;
+#img-1 {
+    background-image: url('../imagens-produtos/conduite-01.jpg');
 }
 
-main {
-    min-width: 900px;
-    max-width: 1821px;
-    margin: auto;
-    margin-bottom: 30px;
-    padding: 20px;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.507);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+#img-2 {
+    background-image: url('../imagens-produtos/kit-acessorios-01.jpg');
 }
 
-main img {
-    width: 100%;
+#img-3 {
+    background-image: url('../imagens-produtos/kit-inversor-de-solda-01.jpg');
 }
 
-main img.pequena {
-    max-width: 350px;
+#img-4 {
+    background-image: url('../imagens-produtos/liga-argamassa-01.jpg');
+}
+
+#img-5 {
+    background-image: url('../imagens-produtos/makita-01.jpg');
+}
+
+#img-6 {
+    background-image: url('../imagens-produtos/parafusadeira-01.jpg');
+}
+
+h3 {
+    margin-bottom: 10px;
+    color: #3db36b;
+    font-size: 24px;
+}
+
+.card p {
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btn {
     display: block;
-    margin: auto;
-    
-}
-
-main h1 {
-    color: #ffffff;
-    font-family: var(--fonte-destaque);
-    font-size: 1.7em;
-    font-weight: normal;
-    background-image: linear-gradient(to right, #bd3f08, transparent);
-    text-indent: 8px;
-}
-
-main h2 {
-    font-family: var(--fonte-android);
-    color: #ffffff;
-    font-size: 1.3em;
-    font-weight: normal;
-    background-image: linear-gradient(to right, #bd3f08, transparent);
-    text-indent: 8px;
-}
-
-main p {
-    margin: 15px 0px;
-    text-align: justify;
-    text-indent: 25px;
-    font-size: 1em;
-    line-height: 1.5em;
-}
-
-main strong {
-    color: var(--cor4);
-    font-weight: bold;
-    padding: 2px 6px;
-}
-
-main a {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
     text-decoration: none;
-    font-weight: bold;
-    color: #ffffff;
-    background-color: #bd3f08;
-    padding: 2px 6px;
+    background-color: #ff6600;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    transition: 0.5s;
 }
 
-main a:hover {
-    text-decoration: underline;
-    color: var(--cor4);
+.btn:hover {
+    background-color: #973d00;
 }
-
 
 aside {
     background-color: #ffffff;
@@ -187,13 +153,13 @@ aside {
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.452);
 }
 
-aside > ul {
+aside>ul {
     list-style-type: '\2714\00A0';
     list-style-position: inside;
     columns: 2;
 }
 
-aside > h3 {
+aside>h3 {
     background-color: #ff4d00bb;
     color: white;
     padding: 10px;
@@ -202,21 +168,11 @@ aside > h3 {
 
 }
 
-footer {
+footer{
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    padding: 10px;
-    background-color: var(--cor5);
-    color: white;
-}
+    padding: 18px;
+    background-color: #882900;
+    color: rgb(255, 255, 255);
 
-footer a {
-    color: var(--cor3);
-    text-decoration: underline;
-    font-weight: bold;
-
-}
-
-footer a:hover {
-    text-decoration: underline;
-    color: var(--cor1);
 }
