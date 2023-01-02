@@ -111,8 +111,8 @@ main > h1 {
 }
 
 .product-image {
-    height: 200px;
-    width: 80%;
+    height: 280px;
+    width: 100%;
     margin-bottom: 10px;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,11 +120,11 @@ main > h1 {
 }
 
 #img-1 {
-    background-image: url('../imagens-produtos/conduite-01.jpg');
+    background-image: url('../imagens-produtos/produto01.png.png');
 }
 
 #img-2 {
-    background-image: url('../imagens-produtos/kit-acessorios-01.jpg');
+    background-image: url('../imagens-produtos/produto02.png');
 }
 
 #img-3 {
