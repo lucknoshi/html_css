@@ -234,7 +234,7 @@ aside {
 }
 
 aside > h3 {
-    background-color: #d13f00;
+    background: linear-gradient(#641e00f2, #d13f00);
     color: white;
     padding: 10px;
     margin: -9px -10px 0px -10px;
@@ -255,7 +255,7 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 30px;
-    background-color: #882900;
+    background: linear-gradient(#641e00f2, #d13f00);
     color: rgb(255, 255, 255);
 
 }
