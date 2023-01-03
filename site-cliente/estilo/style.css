@@ -14,8 +14,6 @@
 body {
     margin: auto;
   
-    
-    
 }
 
 /* Cabeçalho */
@@ -51,8 +49,8 @@ header h2 {
 header p {
     font-family: 'Raleway', sans-serif;
     font-family: 'Yeon Sung', cursive;
-    margin: 9px;
-    padding: 4px;
+    margin: 0px;
+    padding: 7px;
     text-align: right;
     color: #fff;
     font-size: 1.5em;
@@ -120,7 +118,7 @@ main > h1 {
 }
 
 #img-1 {
-    background-image: url('../imagens-produtos/produto01.png.png');
+    background-image: url('../imagens-produtos/produto01.png');
 }
 
 #img-2 {
@@ -128,40 +126,68 @@ main > h1 {
 }
 
 #img-3 {
-    background-image: url('../imagens-produtos/kit-inversor-de-solda-01.jpg');
+    background-image: url('../imagens-produtos/produto03.png');
 }
 
 #img-4 {
-    background-image: url('../imagens-produtos/liga-argamassa-01.jpg');
+    background-image: url('../imagens-produtos/produto04.png');
 }
 
 #img-5 {
-    background-image: url('../imagens-produtos/makita-01.jpg');
+    background-image: url('../imagens-produtos/produto05.png');
 }
 
 #img-6 {
-    background-image: url('../imagens-produtos/parafusadeira-01.jpg');
+    background-image: url('../imagens-produtos/produto06.png');
 }
 
 #img-7 {
-    background-image: url('../imagens-produtos/serra-marmore-01.jpg');
+    background-image: url('../imagens-produtos/produto07.png');
 }
 
 #img-8 {
-    background-image: url('../imagens-produtos/tinta-latex-01.jpg');
+    background-image: url('../imagens-produtos/produto08.png');
 }
 
 #img-9 {
-    background-image: url('../imagens-produtos/tinta-vedacit-01.jpg');
+    background-image: url('../imagens-produtos/produto09.png');
 }
 
 #img-10 {
-    background-image: url('../imagens-produtos/vaso-assento-01.jpg');
+    background-image: url('../imagens-produtos/produto10.png');
     
 }
 
 #img-11 {
-    background-image: url('../imagens-produtos/');
+    background-image: url('../imagens-produtos/produto11.png');
+}
+
+#img-12 {
+    background-image: url('../imagens-produtos/produto12.png');
+}
+
+#img-13 {
+    background-image: url('../imagens-produtos/produto13.png');
+}
+
+#img-14 {
+    background-image: url('../imagens-produtos/produto14.png');
+}
+
+#img-15 {
+    background-image: url('../imagens-produtos/produto15.png');
+}
+
+#img-16 {
+    background-image: url('../imagens-produtos/produto16.png');
+}
+
+#img-17 {
+    background-image: url('../imagens-produtos/produto17.png');
+}
+
+#img-18 {
+    background-image: url('../imagens-produtos/produto18.png');
 }
 
 h3 {
@@ -202,7 +228,7 @@ aside {
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.452);
 }
 
-aside>h3 {
+aside > h3 {
     background-color: #ff4d00bb;
     color: white;
     padding: 10px;
@@ -213,6 +239,10 @@ aside>h3 {
 
 aside > p {
     text-align: center;
+}
+
+aside > p > img {
+    max-width: 473px;
 }
 
 footer{
