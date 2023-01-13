@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-
-body {
-    background-image: url('imagens/target001.png');
-}
-
 div.quadrado {
     display: inline-block;
     border: solid black;
