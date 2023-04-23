@@ -34,9 +34,8 @@ Projetos em HTML5 e CSS3.
 <a href="https://lucknoshi.github.io/html_css/desafios/desafio06/index.html">Executar o desafio06</a><br>
 <a href="https://lucknoshi.github.io/html_css/desafios/desafio07/desafio07.html">Executar o desafio07</a><br>
 <a href="https://lucknoshi.github.io/html_css/desafios/desafio08/index.html">Executar o desafio08</a><br>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio09/index.html">Executar o desafio09</a><br>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio010/index.html">Executar o desafio010</a><br>
-<a href="https://lucknoshi.github.io/html_css/desafios/desafio010b/index.html">Executar o desafio010b</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio010/index.html">Executar o desafio009</a><br>
+<a href="https://lucknoshi.github.io/html_css/desafios/desafio010b/index.html">Executar o desafio010</a><br>
 <a href="https://lucknoshi.github.io/html_css/desafios/desafio012/index.html">Executar o desafio012</a>
 
 
