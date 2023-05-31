@@ -12,7 +12,7 @@ Projetos em HTML5 e CSS3.
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex008/">Executar o exercício 007</a><br>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex009/">Executar o exercício 008</a><br>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex010/">Executar o exercício 009</a><br>
-<a href="https://lucknoshi.github.io/html_css/exercicios/ex011/">Executar o exercício 0010</a><br>
+<a href="https://lucknoshi.github.io/html_css/exercicios/ex011/">Executar o exercício 010</a><br>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex012/">Executar o exercício 011</a><br>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex013/">Executar o exercício 012</a><br>
 <a href="https://lucknoshi.github.io/html_css/exercicios/ex014/">Executar o exercício 013</a><br>
